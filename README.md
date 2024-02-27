@@ -39,5 +39,3 @@ This application was developed by [Huzeyfe M.].
 ## License
 
 ---
-
-Feel free to modify the sections as needed and add more details if required.
