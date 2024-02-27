@@ -30,7 +30,7 @@ This application is a simple desktop application designed to convert units betwe
 ## Usage
 Run the application using the following command:
 ```
-python converter_app.py
+python filensme.py
 ```
 
 ## Author
