@@ -40,6 +40,7 @@ class ConverterTab(QWidget):
 
     def text_to_number(self, text):
         try:
+            text = text.replace(",", "")
             number = float(text)
             return number
         except ValueError:
