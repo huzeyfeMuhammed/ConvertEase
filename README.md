@@ -12,6 +12,7 @@ ConvertEase is a user-friendly desktop application designed for unit conversion 
 
 ### Airport Database
 - Retrieve information about airports, including IATA and ICAO codes, airport names, countries, and cities.
+- **Note: Ensure the "Airports Database - Sheet1.csv" file is present for the Airport Database functionality.
 
 ## How to Use
 1. Run the ConvertEase application.
